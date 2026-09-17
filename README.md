@@ -4,7 +4,6 @@ Este projeto foi dividido a partir do arquivo único original em:
 
 ```
 index.html
-js/
  ├── core.js              (storage / localStorage / IndexedDB)
  ├── nucleo_app.js        (navegação, capa do menu)
  ├── mundo_tempo.js       (tempo, fome, descanso, mapa)
